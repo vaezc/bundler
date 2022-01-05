@@ -1,0 +1,23 @@
+{
+  "name": "webpack_reason",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/parser": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/traverse": "^7.16.7"
+  }
+}
